@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Andreas Galluccio
+# 👋 Ciao, sono Andreas
 
 💻 **Backend Developer (C# / ASP.NET Core)**  
 🚀*Appassionato di sviluppo API pulite e scalabili*
