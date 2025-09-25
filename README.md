@@ -31,8 +31,6 @@
 
 ## 📂 Progetti in evidenza
 - 🚧 **TaskList** – progetto di gestione task in fase di sviluppo  
-💻 API sviluppate con ASP.NET Core, Entity Framework e SQL Server  
-
 - 💡 Altri progetti demo e applicazioni personali in arrivo  
 
 ---
