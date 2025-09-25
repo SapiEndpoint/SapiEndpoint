@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Stack Tecnologico
+## 🔧 Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?logo=dot-net&logoColor=white) 
