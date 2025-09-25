@@ -1,8 +1,7 @@
 # 👋 Ciao, sono Andreas Galluccio
-*(Backend Developer | C# / ASP.NET Core | Appassionato di API e sviluppo pulito)*
 
 💻 **Backend Developer (C# / ASP.NET Core)**  
-🚀 Appassionato di sviluppo API pulite e scalabili  
+🚀*Appassionato di sviluppo API pulite e scalabili*
 
 ---
 
